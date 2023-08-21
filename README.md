@@ -1,1 +1,1 @@
-# cherry_blossom
+# Cherry Blossom Date Prediction Competition completed on May 20th hosted by George Mason University and awarded the Best Model 2023. Full detail is in website https://competition.statistics.gmu.edu/ 
